@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj": {}
+    "D:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj": {}
   },
   "projects": {
-    "d:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj": {
+    "D:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj",
+        "projectUniqueName": "D:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj",
         "projectName": "Task023",
-        "projectPath": "d:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj",
+        "projectPath": "D:\\Study\\HomeWork\\Domashka3_2\\Task023\\Task023.csproj",
         "packagesPath": "C:\\Users\\Tra-Ta\\.nuget\\packages\\",
-        "outputPath": "d:\\Study\\HomeWork\\Domashka3_2\\Task023\\obj\\",
+        "outputPath": "D:\\Study\\HomeWork\\Domashka3_2\\Task023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tra-Ta\\AppData\\Roaming\\NuGet\\NuGet.Config"
